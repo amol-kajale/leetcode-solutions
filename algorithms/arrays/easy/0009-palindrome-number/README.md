@@ -1,4 +1,4 @@
-# 1. Two Sum
+# 1. Palindrome Number
 
 🔗 Problem Link:
 https://leetcode.com/problems/palindrome-number/
