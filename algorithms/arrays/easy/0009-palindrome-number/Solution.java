@@ -13,6 +13,6 @@ class Solution {
 
     public static void main(String[] args) {
     Solution solution = new Solution();
-    System.out.println(solution.isPalindrome(121)); // Output: [0, 1]
+    System.out.println(solution.isPalindrome(121)); // true
   }
 }
