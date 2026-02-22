@@ -1,4 +1,4 @@
-# 1. Palindrome Number
+# 0009. Palindrome Number
 
 🔗 Problem Link:
 https://leetcode.com/problems/palindrome-number/
